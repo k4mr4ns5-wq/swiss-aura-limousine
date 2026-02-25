@@ -3,5 +3,8 @@ export const site = {
   slogan: "Excellence in Motion",
   hub: "Zürich Airport",
   whatsappNumber: "41766275151",
-  email: "k4m.r4n.s5@gmail.com",
+  emails: {
+    reservations: "reservations@swissauralimousine.ch",
+    info: "info@swissauralimousine.ch",
+  },
 };
