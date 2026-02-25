@@ -1,5 +1,5 @@
 import Hero from "./components/home/Hero";
-import { getReserveLinks } from "../lib/reserveLinks";
+import { reserveLinks } from "../lib/reserveLinks";";
 import { site } from "../lib/site";
 
 export default function Home() {
