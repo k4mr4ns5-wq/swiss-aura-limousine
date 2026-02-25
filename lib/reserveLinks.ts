@@ -1,15 +1,6 @@
-<div className="flex flex-col">
-  <a
-    href={`mailto:${site.reservationsEmail}`}
-    className="hover:underline"
-  >
-    {site.reservationsEmail}
-  </a>
+import { site } from "./site";
 
-  <a
-    href={`mailto:${site.infoEmail}`}
-    className="hover:underline"
-  >
-    {site.infoEmail}
-  </a>
-</div>
+export const reserveLinks = {
+  reservations: `mailto:${site.reservationsEmail}`,
+  info: `mailto:${site.infoEmail}`,
+};
