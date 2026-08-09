@@ -1,5 +1,5 @@
 export const site = {
-  name: "Swiss Aura Limousine",
+  name: "Khaleghpasand Chauffer Service",
   slogan: "Excellence in Motion",
   hub: "Zürich Airport",
   whatsappNumber: "41766275151",
