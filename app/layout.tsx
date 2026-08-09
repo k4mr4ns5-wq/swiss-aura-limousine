@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Swiss Aura Limousine | Excellence in Motion",
+ title: "Khleghpasand Chauffeur Service | Excellence in Motion",
   description: "Premium airport transfers from Zürich Airport across Switzerland and beyond.",
 };
 
