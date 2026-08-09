@@ -3,7 +3,8 @@ import { reserveLinks } from "../lib/reserveLinks";
 import { site } from "../lib/site";
 
 export default function Home() {
-const { whatsappLink, mailtoLink } = reserveLinks();
+const whatsappLink = `https://wa.me/${site.whatsappNumber}`;
+const mailtoLink = reserveLinks.reservations;
 
   return (
     <main
