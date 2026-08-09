@@ -1,5 +1,5 @@
 export const site = {
-  name: "Khaleghpasand Chauffer Service",
+  name: "Khleghpasand Chauffeur Service",
   slogan: "Excellence in Motion",
   hub: "Zürich Airport",
   whatsappNumber: "41766275151",
